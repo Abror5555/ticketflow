@@ -189,3 +189,7 @@ checks on every push (`.github/workflows/ci.yml`).
   production the actor would come from the session, not from the request body.
 - Email is not sent; replies are stored in the ticket. An email integration (inbound and outbound) would
   plug into `addComment`.
+
+## License
+
+[MIT](LICENSE) © 2026 Abror Kushshiyev
